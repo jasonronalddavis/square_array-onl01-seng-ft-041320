@@ -2,8 +2,8 @@ require "pry"
 def square_array(array)
   result = []
 
-  array.each do |array|
-
+  array.each do |number|
+binding.pry
   end
 
 end
